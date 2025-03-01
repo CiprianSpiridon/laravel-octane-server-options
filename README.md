@@ -30,6 +30,7 @@ For a comprehensive analysis of each server option, please refer to the followin
 - [Decision Framework](docs/decision-framework.md)
 - [Migration Strategies](docs/migration-strategies.md)
 - [Common Issues & Solutions](docs/troubleshooting.md)
+- [AWS ECS Deployment Guide](docs/aws-ecs-deployment.md)
 
 ## Decision Framework
 
