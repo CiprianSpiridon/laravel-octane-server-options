@@ -146,7 +146,6 @@ RoadRunner helps maintain consistency between different environments:
 
 ```yaml
 # docker-compose.yml for consistent environments
-version: '3'
 
 services:
   app:

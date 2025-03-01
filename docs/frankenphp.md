@@ -57,7 +57,6 @@ FrankenPHP excels in microservices environments due to its lightweight nature an
 
 ```yaml
 # docker-compose.yml example for a microservice
-version: '3'
 
 services:
   auth-service:
